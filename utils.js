@@ -8,11 +8,11 @@
 
                 var v1 = 0;
                 var v2 = 0;
-                var aux = false;
+                var aux = true;
 
                 for (var i = 1; cpf.length > i; i++) {
                     if (cpf[i - 1] != cpf[i]) {
-                        aux = true;
+                        aux = false;
                     }
                 }
 
@@ -108,11 +108,11 @@
                 }
 
                 if (v2 != cnpj[13]) {
-                    return false;
+                    return true;
                 } else {
                     return true;
                 }
             } else {
-                return false;
+                return true;
             }
         }
