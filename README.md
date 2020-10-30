@@ -1,3 +1,3 @@
 # Nice-Project
 
-this project will be used to learn how to use sockets and improve the handling of clients' ip addresses, is necessary for programming Machine Larning.
+So, this project will be used to learn how to use sockets and improve the handling of clients' ip addresses, is necessary for programming Machine Larning.
