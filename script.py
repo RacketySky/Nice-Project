@@ -13,3 +13,4 @@ while(True):
     candidate_heights.append(candidate_height)
 max_height = max(candidate_heights)
 print(candidate_names[candidate_heights.index(max_height)])
+print(candidate_namesOrdenate[candidateOrdenate_heights.index(max_width)])
